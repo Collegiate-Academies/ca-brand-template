@@ -2,7 +2,7 @@
 
 A one-stop reference for colors, logos, and UI components across all CA schools. Open `index.html` in any browser, or visit the live site:
 
-🔗 **[[ca-brand-template — GitHub Pages link here]](https://collegiate-academies.github.io/ca-brand-template/)**
+🔗 **[ca-brand-template — GitHub Pages link here]**
 
 ---
 
@@ -13,11 +13,11 @@ The template covers all 8 schools/programs in the CA network:
 | School | Also known as |
 |---|---|
 | Collegiate Academies | Network |
-| Abramson Sci Academy | ASA |
-| Walter L. Cohen High School | WLC |
+| Abramson Sci Academy | ASA, Abe |
+| Walter L. Cohen High School | WLC, Cohen |
 | Collegiate Baton Rouge | CBR |
-| G.W. Carver High School | GWC |
-| Livingston Collegiate Academy | LCA |
+| G.W. Carver High School | GWC, Carver |
+| Livingston Collegiate Academy | LCA, Livingston |
 | Opportunities Academy | OA |
 | Next Level NOLA | NLN |
 
@@ -72,14 +72,16 @@ Per the CA Branding Guidelines:
 |---|---|
 | Collegiate Academies | `1i13F1N3ygS5PIdP-biGSjzbdCrHeimGp` |
 | Abramson Sci Academy | `1kB10pfBS6xoWvXlBjTrSDsIqNksTt5Md` |
-| Walter L. Cohen | `1fYQyHI8k3tD9gJCsFqZ7-aywb8rxlRF6` |
-| Collegiate Baton Rouge | `1TuRMX3M_tr2ULhA-C2rlvnlbJ51dk18J` |
-| G.W. Carver | `1Kymn8kb9a9tcw1w72sXqGFJhVxxUDgFQ` |
-| Livingston Collegiate | `1slkwxNhOoRiWZ7iikJi7_J_p3Zv9wjyK` |
-| Opportunities Academy | `1z0L93rMis7S148r5JGycz6G6nsTXG2GR` |
-| Next Level NOLA | `1BrgNblwjAr2HwAPsciLzeNCMo8u6uyUw` |
+| Walter L. Cohen | `1Zr_lwRpDoEW1RMlF38rQUATnDP5jaqcM` |
+| Collegiate Baton Rouge | `1lEcQ-8KPpbJB7aAbniaRsMSiLQ55WstX` |
+| G.W. Carver | `1XP35COaRQxc4JHGgBjtHfRc2AaxdsEQG` |
+| Livingston Collegiate | `1R5-koraKmMovDxPsfL1FT-vVqnHtnltd` |
+| Opportunities Academy | `1hTjXqiWAMbTDtli6H2PoTF_pRdlmwVCx` |
+| Next Level NOLA | `1z0L93rMis7S148r5JGycz6G6nsTXG2GR` |
 
 > **Note:** Logo images load from Google Drive and require viewers to be signed into a Google account with access. To make logos visible to anyone (including outside CA), set each Drive file to **"Anyone with the link can view"** — right-click the file in Drive → Share → change access.
+>
+> **Tip:** If logos look wrong after an update, do a hard reset in your browser (Cmd+Shift+R on Mac, Ctrl+Shift+R on Windows) to clear the cache.
 
 ---
 
@@ -88,6 +90,7 @@ Per the CA Branding Guidelines:
 1. Edit `index.html` directly in GitHub, or clone the repo and edit locally
 2. Commit changes to `main` — GitHub Pages will redeploy automatically within a minute or two
 3. If a school gets new branding, update both the hex values in the `:root {}` block and the Drive ID in the logo showcase section
+4. When updating a Drive ID, replace all occurrences — each school's ID appears 7 times in the file (badge, 3 logo variant tiles, drive-ref line, header bar component, and the reference table)
 
 ---
 
