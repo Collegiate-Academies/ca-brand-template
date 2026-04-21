@@ -12,12 +12,12 @@ The template covers all 8 schools/programs in the CA network:
 
 | School | Also known as |
 |---|---|
-| Collegiate Academies | Network, CST |
-| Abramson Sci Academy | ASA, Abe |
-| Walter L. Cohen High School | WLC, Cohen |
+| Collegiate Academies | Network |
+| Abramson Sci Academy | ASA |
+| Walter L. Cohen High School | WLC |
 | Collegiate Baton Rouge | CBR |
-| G.W. Carver High School | GWC, Carver |
-| Livingston Collegiate Academy | LCA, Livingston |
+| G.W. Carver High School | GWC |
+| Livingston Collegiate Academy | LCA |
 | Opportunities Academy | OA |
 | Next Level NOLA | NLN |
 
