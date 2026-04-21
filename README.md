@@ -102,4 +102,4 @@ Per the CA Branding Guidelines:
 
 ---
 
-*Maintained by the CA Data & Operations team. Questions? Reach out on Slack.*
+*Maintained by the CA Data & Operations team*
