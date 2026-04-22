@@ -2,7 +2,7 @@
 
 A one-stop reference for colors, logos, and UI components across all CA schools. Open `index.html` in any browser, or visit the live site:
 
-🔗 **[ca-brand-template — GitHub Pages link here]**
+🔗 **[[ca-brand-template](https://collegiate-academies.github.io/ca-brand-template/)]**
 
 ---
 
